@@ -1766,7 +1766,8 @@ input[type='checkbox'] {
 
 .header__heading-link .h2 {
   line-height: 1;
-  color: rgb(182, 182, 190);
+  color: green;
+  font-size: 30px;
 }
 
 .header__heading-logo {
